@@ -36,7 +36,13 @@ Le projet inclut :
 ```bash
 📁 PRONTO-HeatNetwork
 │
-├── 📁 data/             # Jeux de données Small et Big Data, Equity
-├── 📁 notebooks/        # Google Colab (prototypes & visualisations)
-├── 📄 requirements.txt  # Librairies nécessaires
-└── 📄 README.md         # Vous êtes ici
+├── 📁 BigData/                     # Données et scripts pour les jeux de données volumineux
+├── 📁 SmallData/                  # Données et scripts pour les jeux de données réduits
+├── 📁 Scénario 1/                 # Implémentation du scénario Équité
+├── 📁 Scénario 2/                 # Implémentation du scénario Résilience
+├── 📁 Distribution Prioritaire/  # Tentative de scénario sur la priorisation
+│
+├── 📄 LICENSE                     # Licence du projet (MIT, GPL, etc.)
+├── 📄 README.md                   # Présentation du projet (ce fichier)
+├── 📄 PRONTO_rapport.pdf          # Rapport final détaillé
+├── 📄 PRONTO_présentation_détaillée.pdf  # Support de présentation
